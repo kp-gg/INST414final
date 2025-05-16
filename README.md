@@ -1,10 +1,10 @@
-# finalproject
+# INST414 Final Project
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-final deliverables for semester project
+Final deliverable for semester project. An overview of my research on the relationship between employment status and telehealth services accessibility.
 
 ## Project Organization
 
@@ -58,4 +58,5 @@ final deliverables for semester project
 ```
 
 --------
+
 
