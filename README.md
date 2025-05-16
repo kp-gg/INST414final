@@ -5,6 +5,8 @@
 </a>
 
 Final deliverable for semester project. An overview of my research on the relationship between employment status and telehealth services accessibility.
+This research delves into how healthcare accessibility, specifically telehealth services, are potentially affected by employment status. The point of this
+research was to demonstrate how predictive analysis models are effective tools to find correlations between factors that impact social justice issues.
 
 ## How to Run
 1. Clone repo
