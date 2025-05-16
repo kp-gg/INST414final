@@ -62,6 +62,12 @@ create_environment:
 data: requirements
 	$(PYTHON_INTERPRETER) project/dataset.py
 
+train:
+    python project/modeling/train.py
+
+report:
+    jupyter nbconvert --to html notebooks/*.ipynb
+
 
 #################################################################################
 # Self Documenting Commands                                                     #
