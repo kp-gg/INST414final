@@ -6,6 +6,11 @@
 
 Final deliverable for semester project. An overview of my research on the relationship between employment status and telehealth services accessibility.
 
+## How to Run
+1. Clone repo
+2. Install requirements: `pip install -r requirements.txt`
+3. Run notebooks or `make train`
+
 ## Project Organization
 
 ```
