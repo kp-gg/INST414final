@@ -11,7 +11,7 @@ research was to demonstrate how predictive analysis models are effective tools t
 ## How to Run
 1. Clone repo
 2. Install requirements: `pip install -r requirements.txt`
-3. Run notebooks or `make train`
+3. Run notebooks, all code used for models, visualizations, and overall analysis is found in the "telehealth_code.ipynb"
 
 ## Project Organization
 
